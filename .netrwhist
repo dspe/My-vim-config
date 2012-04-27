@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/pvr/Sites/test/extension/pvrsearch/autoloads'
+let g:netrw_dirhist_2='/Users/pvr/Sites/repos/ezgmaplocation/.git'
+let g:netrw_dirhist_3='/Users/pvr/Sites/update46/extension/mademo/settings'
+let g:netrw_dirhist_4='/Users/pvr/Sites/update46/autoload'
+let g:netrw_dirhist_5='/Users/pvr/Sites/demo45/extension/ezoe'
+let g:netrw_dirhist_6='/Users/pvr/Sites/demo45/extension/ezoe/autoloads'
